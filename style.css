@@ -131,6 +131,13 @@ input:invalid {
     outline: 1px solid #FF0000;
 }
 
+.password-match {
+    font-size: 0.5em;
+    color: #FF0000;
+    font-weight: normal;
+    display: none;
+}
+
 .account {
     padding: 2em;
 }
